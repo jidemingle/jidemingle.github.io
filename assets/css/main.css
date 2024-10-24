@@ -3600,3 +3600,15 @@ input, select, textarea {
 		color: black;
 		font-weight: bold;
 	}
+	.thesalesshift{
+		position: relative;
+		right: 8pc;
+	}
+	.latestnd{
+		font-size: 23px;
+		color: black;
+		font-weight: bold;
+		position: relative;
+		top: -10px;
+		left: 2pc;
+	}

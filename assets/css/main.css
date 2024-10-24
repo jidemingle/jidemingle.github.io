@@ -3612,3 +3612,22 @@ input, select, textarea {
 		top: -10px;
 		left: 2pc;
 	}
+	.latestndp{
+		font-size: 23px;
+		color: black;
+		font-weight: bold;
+		position: relative;
+		top: -10px;
+		left: 1pc;
+	}
+	.resizepicrq{
+		height: 12pc;
+	}
+	.latestndsr{
+		font-size: 23px;
+		color: black;
+		font-weight: bold;
+		position: relative;
+		top: -12px;
+		left: -0.5pc;
+	}

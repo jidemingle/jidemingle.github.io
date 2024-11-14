@@ -3633,11 +3633,17 @@ input, select, textarea {
 	}
 	.textsbb{
 		position: relative;
-		top: 30px;
+		top: 16px;
 		color: black;
 		font-weight: bolder;
 		font-size: 0.9em;
 	}
 	.bluehyperlink{
 		color: blue;
+	}
+	.textsbd{
+		position: relative;
+		top: 18px;
+		color: black;
+		font-weight: bolder;
 	}
